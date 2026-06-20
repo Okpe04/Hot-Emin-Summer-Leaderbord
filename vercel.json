@@ -1,0 +1,6 @@
+{
+  "installCommand": "cd leaderboard-site && npm ci",
+  "buildCommand": "cd leaderboard-site && npm run build",
+  "outputDirectory": "leaderboard-site/dist",
+  "framework": "vite"
+}
