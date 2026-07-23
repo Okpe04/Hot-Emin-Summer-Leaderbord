@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:05:22Z",
+  "generated_at": "2026-07-23T06:10:15Z",
   "source": {
     "provider": "SocialData",
     "api_base_url": "https://api.socialdata.tools",
@@ -17,7 +17,7 @@
     "search_type": "Latest",
     "constraints": [],
     "exclude_target_author": false,
-    "tweet_count": 3539,
+    "tweet_count": 3542,
     "user_count": 1001,
     "queries": [
       {
@@ -899,9 +899,9 @@
       }
     ],
     "metric_totals": {
-      "likes": 76338,
-      "views": 1924468,
-      "replies": 30114,
+      "likes": 76381,
+      "views": 1925432,
+      "replies": 30125,
       "retweets": 6487,
       "quotes": 2145,
       "bookmarks": 1095
@@ -1126,13 +1126,13 @@
         "id": "1612469725619171328",
         "handle": "YeeterPH",
         "name": "Oh Yeet (hot emin arc)",
-        "followers_count": 3520,
+        "followers_count": 3517,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2074174625349787650/gffJz-Ek_normal.jpg",
         "verified": true
       },
       "tweet_count": 65,
       "likes": 249,
-      "views": 12371,
+      "views": 12383,
       "replies": 72,
       "retweets": 24,
       "quotes": 4,
@@ -1917,16 +1917,67 @@
     },
     {
       "author": {
+        "id": "1542435544134610945",
+        "handle": "BoddaShabu",
+        "name": "Shabu 🛡🔺️ (Hot emin arc)",
+        "followers_count": 336,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066527010827247617/JnbqdB-k_normal.jpg",
+        "verified": true
+      },
+      "tweet_count": 26,
+      "likes": 309,
+      "views": 3172,
+      "replies": 77,
+      "retweets": 33,
+      "quotes": 0,
+      "bookmarks": 1,
+      "matched_terms": [
+        "gHotemin",
+        "$hotemin"
+      ],
+      "tweet_ids": [
+        "2079898718250414124",
+        "2079477726411735140",
+        "2079161007952605548",
+        "2078784838719713363",
+        "2078456706011644341",
+        "2078071957875249628",
+        "2077720470850543687",
+        "2077340483039453597",
+        "2076606429717463176",
+        "2075893948153999549",
+        "2075556872275496988",
+        "2074797287537344728",
+        "2074432862926016903",
+        "2074094737758548239",
+        "2073713300358185240",
+        "2073005453181853734",
+        "2072645293469037027",
+        "2072295213910069727",
+        "2071912012217741679",
+        "2071574755065598349",
+        "2069394922323710375",
+        "2067685908535758969",
+        "2067585317822255390",
+        "2067249314917994823",
+        "2066574172562898989",
+        "2054549074662322348"
+      ],
+      "first_tweet_at": "2026-05-13T13:07:25.000000Z",
+      "last_tweet_at": "2026-07-22T11:57:51.000000Z"
+    },
+    {
+      "author": {
         "id": "1788093703849975808",
         "handle": "maxed_out9",
         "name": "Max (hot emin arc)🔺",
         "followers_count": 413,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1952787043106406400/MHjcuEuz_normal.jpg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079874666177466368/669469gC_normal.jpg",
         "verified": true
       },
       "tweet_count": 26,
-      "likes": 297,
-      "views": 4553,
+      "likes": 298,
+      "views": 4577,
       "replies": 65,
       "retweets": 28,
       "quotes": 0,
@@ -2016,56 +2067,6 @@
       ],
       "first_tweet_at": "2026-05-13T07:14:33.000000Z",
       "last_tweet_at": "2026-07-12T20:17:55.000000Z"
-    },
-    {
-      "author": {
-        "id": "1542435544134610945",
-        "handle": "BoddaShabu",
-        "name": "Shabu 🛡🔺️ (Hot emin arc)",
-        "followers_count": 333,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2066527010827247617/JnbqdB-k_normal.jpg",
-        "verified": true
-      },
-      "tweet_count": 25,
-      "likes": 297,
-      "views": 3034,
-      "replies": 74,
-      "retweets": 33,
-      "quotes": 0,
-      "bookmarks": 1,
-      "matched_terms": [
-        "gHotemin",
-        "$hotemin"
-      ],
-      "tweet_ids": [
-        "2079477726411735140",
-        "2079161007952605548",
-        "2078784838719713363",
-        "2078456706011644341",
-        "2078071957875249628",
-        "2077720470850543687",
-        "2077340483039453597",
-        "2076606429717463176",
-        "2075893948153999549",
-        "2075556872275496988",
-        "2074797287537344728",
-        "2074432862926016903",
-        "2074094737758548239",
-        "2073713300358185240",
-        "2073005453181853734",
-        "2072645293469037027",
-        "2072295213910069727",
-        "2071912012217741679",
-        "2071574755065598349",
-        "2069394922323710375",
-        "2067685908535758969",
-        "2067585317822255390",
-        "2067249314917994823",
-        "2066574172562898989",
-        "2054549074662322348"
-      ],
-      "first_tweet_at": "2026-05-13T13:07:25.000000Z",
-      "last_tweet_at": "2026-07-21T08:04:59.000000Z"
     },
     {
       "author": {
@@ -2715,6 +2716,49 @@
     },
     {
       "author": {
+        "id": "1354788150913216522",
+        "handle": "zansskuyy",
+        "name": "Zannn🔺",
+        "followers_count": 733,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074136745160155136/3LTJ56p1_normal.jpg",
+        "verified": true
+      },
+      "tweet_count": 18,
+      "likes": 188,
+      "views": 3362,
+      "replies": 36,
+      "retweets": 16,
+      "quotes": 2,
+      "bookmarks": 18,
+      "matched_terms": [
+        "$hotemin",
+        "gHotemin"
+      ],
+      "tweet_ids": [
+        "2079897127623553161",
+        "2078830265334648856",
+        "2078088517281062932",
+        "2074461651424977099",
+        "2074107435607020020",
+        "2064686197394506145",
+        "2064372148383383798",
+        "2063875586230304991",
+        "2063578362241806467",
+        "2063524367737520543",
+        "2063328623139107151",
+        "2062581144873578881",
+        "2062376623547244763",
+        "2062064080870047969",
+        "2058773523443986522",
+        "2058575565532299293",
+        "2058538956631973923",
+        "2057834295545487535"
+      ],
+      "first_tweet_at": "2026-05-22T14:41:43.000000Z",
+      "last_tweet_at": "2026-07-22T11:51:32.000000Z"
+    },
+    {
+      "author": {
         "id": "1843330448035840000",
         "handle": "stillraphael__",
         "name": "0xchidi (hot emin arc)",
@@ -2838,48 +2882,6 @@
       ],
       "first_tweet_at": "2026-05-19T09:10:40.000000Z",
       "last_tweet_at": "2026-07-10T11:55:21.000000Z"
-    },
-    {
-      "author": {
-        "id": "1354788150913216522",
-        "handle": "zansskuyy",
-        "name": "Zannn🔺",
-        "followers_count": 733,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2074136745160155136/3LTJ56p1_normal.jpg",
-        "verified": true
-      },
-      "tweet_count": 17,
-      "likes": 175,
-      "views": 3162,
-      "replies": 31,
-      "retweets": 16,
-      "quotes": 2,
-      "bookmarks": 18,
-      "matched_terms": [
-        "gHotemin",
-        "$hotemin"
-      ],
-      "tweet_ids": [
-        "2078830265334648856",
-        "2078088517281062932",
-        "2074461651424977099",
-        "2074107435607020020",
-        "2064686197394506145",
-        "2064372148383383798",
-        "2063875586230304991",
-        "2063578362241806467",
-        "2063524367737520543",
-        "2063328623139107151",
-        "2062581144873578881",
-        "2062376623547244763",
-        "2062064080870047969",
-        "2058773523443986522",
-        "2058575565532299293",
-        "2058538956631973923",
-        "2057834295545487535"
-      ],
-      "first_tweet_at": "2026-05-22T14:41:43.000000Z",
-      "last_tweet_at": "2026-07-19T13:12:12.000000Z"
     },
     {
       "author": {
@@ -3086,6 +3088,47 @@
     },
     {
       "author": {
+        "id": "1870092080229601280",
+        "handle": "chastercryp",
+        "name": "chastercryp 🔺",
+        "followers_count": 144,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068588587428503552/jHsvAqDe_normal.jpg",
+        "verified": true
+      },
+      "tweet_count": 15,
+      "likes": 103,
+      "views": 1311,
+      "replies": 19,
+      "retweets": 3,
+      "quotes": 3,
+      "bookmarks": 0,
+      "matched_terms": [
+        "gHotemin",
+        "$hotemin",
+        "@HotEminSummer"
+      ],
+      "tweet_ids": [
+        "2079921737979109801",
+        "2076663542900772925",
+        "2073582485003477161",
+        "2066860097532579935",
+        "2066185995092168722",
+        "2065810023234904254",
+        "2064320846492205217",
+        "2062938754944577676",
+        "2062883842885894520",
+        "2062581347198419084",
+        "2061106010669109481",
+        "2060342121933251020",
+        "2058888843630432479",
+        "2057835797693522021",
+        "2057465791071830462"
+      ],
+      "first_tweet_at": "2026-05-21T14:17:25.000000Z",
+      "last_tweet_at": "2026-07-22T13:29:20.000000Z"
+    },
+    {
+      "author": {
         "id": "1266293833886625795",
         "handle": "justonedave_1",
         "name": "dave 🇦🇷 (hot emin arc 🔺)",
@@ -3168,13 +3211,13 @@
         "id": "1123205537611616258",
         "handle": "sansultan99",
         "name": "Sansultan⨀",
-        "followers_count": 1710,
+        "followers_count": 1715,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2058053456221368320/Gowk0f8O_normal.jpg",
         "verified": true
       },
       "tweet_count": 14,
-      "likes": 364,
-      "views": 4479,
+      "likes": 363,
+      "views": 4500,
       "replies": 300,
       "retweets": 22,
       "quotes": 1,
@@ -3359,46 +3402,6 @@
       ],
       "first_tweet_at": "2026-05-13T12:34:07.000000Z",
       "last_tweet_at": "2026-06-15T15:00:00.000000Z"
-    },
-    {
-      "author": {
-        "id": "1870092080229601280",
-        "handle": "chastercryp",
-        "name": "chastercryp 🔺",
-        "followers_count": 142,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2068588587428503552/jHsvAqDe_normal.jpg",
-        "verified": true
-      },
-      "tweet_count": 14,
-      "likes": 99,
-      "views": 1236,
-      "replies": 18,
-      "retweets": 3,
-      "quotes": 3,
-      "bookmarks": 0,
-      "matched_terms": [
-        "gHotemin",
-        "$hotemin",
-        "@HotEminSummer"
-      ],
-      "tweet_ids": [
-        "2076663542900772925",
-        "2073582485003477161",
-        "2066860097532579935",
-        "2066185995092168722",
-        "2065810023234904254",
-        "2064320846492205217",
-        "2062938754944577676",
-        "2062883842885894520",
-        "2062581347198419084",
-        "2061106010669109481",
-        "2060342121933251020",
-        "2058888843630432479",
-        "2057835797693522021",
-        "2057465791071830462"
-      ],
-      "first_tweet_at": "2026-05-21T14:17:25.000000Z",
-      "last_tweet_at": "2026-07-13T13:42:25.000000Z"
     },
     {
       "author": {
@@ -5761,7 +5764,7 @@
       },
       "tweet_count": 7,
       "likes": 46,
-      "views": 707,
+      "views": 715,
       "replies": 9,
       "retweets": 1,
       "quotes": 0,
@@ -7864,14 +7867,14 @@
         "id": "1359670346828312580",
         "handle": "g1raffe_",
         "name": "giraffe",
-        "followers_count": 5211,
+        "followers_count": 5204,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2055736714954465280/zqLgcFcC_normal.jpg",
         "verified": true
       },
       "tweet_count": 4,
-      "likes": 520,
-      "views": 11259,
-      "replies": 99,
+      "likes": 534,
+      "views": 11745,
+      "replies": 101,
       "retweets": 49,
       "quotes": 29,
       "bookmarks": 3,
@@ -29016,6 +29019,118 @@
   ],
   "tweets": [
     {
+      "id": "2079921737979109801",
+      "url": "https://x.com/chastercryp/status/2079921737979109801",
+      "created_at": "2026-07-22T13:29:20.000000Z",
+      "text": "Ghotemin \nOn My Way to Business\nWalking with confidence, building with purpose $HOTEMIN\n\n@ExcelBaller https://t.co/BdKxzPu4ZM",
+      "lang": "en",
+      "author": {
+        "id": "1870092080229601280",
+        "handle": "chastercryp",
+        "name": "chastercryp 🔺",
+        "followers_count": 144,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068588587428503552/jHsvAqDe_normal.jpg",
+        "verified": true
+      },
+      "metrics": {
+        "likes": 4,
+        "views": 75,
+        "replies": 1,
+        "retweets": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "reply_to": {
+        "status_id": null,
+        "user_id": null,
+        "screen_name": null
+      },
+      "is_quote": false,
+      "quoted_status_id": null,
+      "matched_terms": [
+        "gHotemin",
+        "$hotemin"
+      ],
+      "source_queries": [
+        "Latest:term:gHotemin",
+        "Latest:term:$hotemin"
+      ]
+    },
+    {
+      "id": "2079898718250414124",
+      "url": "https://x.com/BoddaShabu/status/2079898718250414124",
+      "created_at": "2026-07-22T11:57:51.000000Z",
+      "text": "gmakooor, ghotemin everyone 😎\n\nHow we doing? $HOTEMIN 🔺️ https://t.co/i4sFOwF92H",
+      "lang": "en",
+      "author": {
+        "id": "1542435544134610945",
+        "handle": "BoddaShabu",
+        "name": "Shabu 🛡🔺️ (Hot emin arc)",
+        "followers_count": 336,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066527010827247617/JnbqdB-k_normal.jpg",
+        "verified": true
+      },
+      "metrics": {
+        "likes": 12,
+        "views": 112,
+        "replies": 3,
+        "retweets": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "reply_to": {
+        "status_id": null,
+        "user_id": null,
+        "screen_name": null
+      },
+      "is_quote": false,
+      "quoted_status_id": null,
+      "matched_terms": [
+        "gHotemin",
+        "$hotemin"
+      ],
+      "source_queries": [
+        "Latest:term:gHotemin",
+        "Latest:term:$hotemin"
+      ]
+    },
+    {
+      "id": "2079897127623553161",
+      "url": "https://x.com/zansskuyy/status/2079897127623553161",
+      "created_at": "2026-07-22T11:51:32.000000Z",
+      "text": "going to the $HOTEMIN summer party. https://t.co/f2fWOwh6V6",
+      "lang": "en",
+      "author": {
+        "id": "1354788150913216522",
+        "handle": "zansskuyy",
+        "name": "Zannn🔺",
+        "followers_count": 733,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074136745160155136/3LTJ56p1_normal.jpg",
+        "verified": true
+      },
+      "metrics": {
+        "likes": 13,
+        "views": 191,
+        "replies": 5,
+        "retweets": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "reply_to": {
+        "status_id": null,
+        "user_id": null,
+        "screen_name": null
+      },
+      "is_quote": false,
+      "quoted_status_id": null,
+      "matched_terms": [
+        "$hotemin"
+      ],
+      "source_queries": [
+        "Latest:term:$hotemin"
+      ]
+    },
+    {
       "id": "2079612106857664767",
       "url": "https://x.com/g1raffe_/status/2079612106857664767",
       "created_at": "2026-07-21T16:58:58.000000Z",
@@ -29025,14 +29140,14 @@
         "id": "1359670346828312580",
         "handle": "g1raffe_",
         "name": "giraffe",
-        "followers_count": 5211,
+        "followers_count": 5204,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2055736714954465280/zqLgcFcC_normal.jpg",
         "verified": true
       },
       "metrics": {
-        "likes": 86,
-        "views": 2359,
-        "replies": 16,
+        "likes": 100,
+        "views": 2845,
+        "replies": 18,
         "retweets": 10,
         "quotes": 4,
         "bookmarks": 0
@@ -29097,13 +29212,13 @@
         "id": "1542435544134610945",
         "handle": "BoddaShabu",
         "name": "Shabu 🛡🔺️ (Hot emin arc)",
-        "followers_count": 333,
+        "followers_count": 336,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2066527010827247617/JnbqdB-k_normal.jpg",
         "verified": true
       },
       "metrics": {
         "likes": 16,
-        "views": 130,
+        "views": 148,
         "replies": 2,
         "retweets": 2,
         "quotes": 0,
@@ -29171,13 +29286,13 @@
         "id": "1123205537611616258",
         "handle": "sansultan99",
         "name": "Sansultan⨀",
-        "followers_count": 1710,
+        "followers_count": 1715,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2058053456221368320/Gowk0f8O_normal.jpg",
         "verified": true
       },
       "metrics": {
-        "likes": 28,
-        "views": 376,
+        "likes": 27,
+        "views": 388,
         "replies": 22,
         "retweets": 1,
         "quotes": 0,
@@ -29207,13 +29322,13 @@
         "id": "1612469725619171328",
         "handle": "YeeterPH",
         "name": "Oh Yeet (hot emin arc)",
-        "followers_count": 3520,
+        "followers_count": 3517,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2074174625349787650/gffJz-Ek_normal.jpg",
         "verified": true
       },
       "metrics": {
         "likes": 2,
-        "views": 167,
+        "views": 179,
         "replies": 1,
         "retweets": 0,
         "quotes": 0,
@@ -29280,12 +29395,12 @@
         "handle": "maxed_out9",
         "name": "Max (hot emin arc)🔺",
         "followers_count": 413,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/1952787043106406400/MHjcuEuz_normal.jpg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079874666177466368/669469gC_normal.jpg",
         "verified": true
       },
       "metrics": {
-        "likes": 16,
-        "views": 208,
+        "likes": 17,
+        "views": 232,
         "replies": 3,
         "retweets": 2,
         "quotes": 0,
@@ -29317,13 +29432,13 @@
         "id": "1542435544134610945",
         "handle": "BoddaShabu",
         "name": "Shabu 🛡🔺️ (Hot emin arc)",
-        "followers_count": 333,
+        "followers_count": 336,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2066527010827247617/JnbqdB-k_normal.jpg",
         "verified": true
       },
       "metrics": {
         "likes": 12,
-        "views": 129,
+        "views": 137,
         "replies": 3,
         "retweets": 1,
         "quotes": 0,
@@ -29361,7 +29476,7 @@
       },
       "metrics": {
         "likes": 16,
-        "views": 262,
+        "views": 270,
         "replies": 3,
         "retweets": 1,
         "quotes": 0,
@@ -29391,13 +29506,13 @@
         "id": "1123205537611616258",
         "handle": "sansultan99",
         "name": "Sansultan⨀",
-        "followers_count": 1710,
+        "followers_count": 1715,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2058053456221368320/Gowk0f8O_normal.jpg",
         "verified": true
       },
       "metrics": {
         "likes": 49,
-        "views": 964,
+        "views": 973,
         "replies": 34,
         "retweets": 3,
         "quotes": 1,
@@ -29469,7 +29584,7 @@
       },
       "metrics": {
         "likes": 12,
-        "views": 597,
+        "views": 606,
         "replies": 3,
         "retweets": 1,
         "quotes": 0,
