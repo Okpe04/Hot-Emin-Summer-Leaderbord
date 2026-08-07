@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:04:56Z",
+  "generated_at": "2026-08-07T05:02:46Z",
   "source": {
     "provider": "SocialData",
     "api_base_url": "https://api.socialdata.tools",
@@ -17,7 +17,7 @@
     "search_type": "Latest",
     "constraints": [],
     "exclude_target_author": false,
-    "tweet_count": 3583,
+    "tweet_count": 3584,
     "user_count": 1006,
     "queries": [
       {
@@ -899,8 +899,8 @@
       }
     ],
     "metric_totals": {
-      "likes": 76927,
-      "views": 1937773,
+      "likes": 76929,
+      "views": 1937822,
       "replies": 30414,
       "retweets": 6522,
       "quotes": 2155,
@@ -1032,7 +1032,7 @@
         "id": "1889769862513504256",
         "handle": "Barbotaipa",
         "name": "B🔺rbo ( makoooring )",
-        "followers_count": 295,
+        "followers_count": 300,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2080444987116830720/Ua01ZGjB_normal.jpg",
         "verified": false
       },
@@ -1872,7 +1872,7 @@
         "id": "1656065293",
         "handle": "ntr_xHK",
         "name": "HK 🔺(hot emin summer)",
-        "followers_count": 1640,
+        "followers_count": 1639,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2081798844933693440/6fmPSMtH_normal.jpg",
         "verified": true
       },
@@ -2083,8 +2083,8 @@
         "verified": true
       },
       "tweet_count": 24,
-      "likes": 613,
-      "views": 7331,
+      "likes": 615,
+      "views": 7344,
       "replies": 510,
       "retweets": 34,
       "quotes": 4,
@@ -2640,8 +2640,8 @@
       "author": {
         "id": "1511454837191417856",
         "handle": "LePotiChatt",
-        "name": "Le Poti Chat",
-        "followers_count": 258,
+        "name": "Le Poti Chat (Contest Arc)",
+        "followers_count": 260,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2083849509843390464/J53SkMBi_normal.jpg",
         "verified": false
       },
@@ -3190,7 +3190,7 @@
         "id": "1515387598667227144",
         "handle": "I_am_mychaell",
         "name": "MichaelOgaboss1.sol🔺️",
-        "followers_count": 951,
+        "followers_count": 950,
         "profile_image_url": "https://pbs.twimg.com/profile_images/1962132735062900737/4Q1AjM9W_normal.jpg",
         "verified": false
       },
@@ -4021,13 +4021,13 @@
         "id": "1793031055659712512",
         "handle": "BusinessonAvax",
         "name": "Francis (Makooor Arc)",
-        "followers_count": 575,
+        "followers_count": 574,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2057825080902623233/o27Cd8xI_normal.jpg",
         "verified": false
       },
       "tweet_count": 10,
       "likes": 71,
-      "views": 1478,
+      "views": 1482,
       "replies": 15,
       "retweets": 1,
       "quotes": 0,
@@ -4732,6 +4732,40 @@
     },
     {
       "author": {
+        "id": "1435221339376324615",
+        "handle": "Cryptowalltown",
+        "name": "@Cryptowalltown 🔺🔻🔺⏺️⏺️⏺️",
+        "followers_count": 1510,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055077483792179200/IYHOa2i-_normal.jpg",
+        "verified": true
+      },
+      "tweet_count": 9,
+      "likes": 28,
+      "views": 457,
+      "replies": 2,
+      "retweets": 7,
+      "quotes": 0,
+      "bookmarks": 0,
+      "matched_terms": [
+        "@HotEminSummer",
+        "$hotemin"
+      ],
+      "tweet_ids": [
+        "2085421507581219212",
+        "2059561592564379888",
+        "2055811287007789450",
+        "2055803141392633898",
+        "2055077802144149816",
+        "2055072776839364900",
+        "2055021692150288465",
+        "2054871047451676714",
+        "2054870822062325918"
+      ],
+      "first_tweet_at": "2026-05-14T10:25:56.000000Z",
+      "last_tweet_at": "2026-08-06T17:43:27.000000Z"
+    },
+    {
+      "author": {
         "id": "1568937683040325633",
         "handle": "0xSmile",
         "name": "Smile",
@@ -5294,39 +5328,6 @@
       ],
       "first_tweet_at": "2026-05-23T20:58:37.000000Z",
       "last_tweet_at": "2026-05-25T10:58:58.000000Z"
-    },
-    {
-      "author": {
-        "id": "1435221339376324615",
-        "handle": "Cryptowalltown",
-        "name": "@Cryptowalltown 🔺🔻🔺⏺️⏺️⏺️",
-        "followers_count": 1518,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2055077483792179200/IYHOa2i-_normal.jpg",
-        "verified": true
-      },
-      "tweet_count": 8,
-      "likes": 28,
-      "views": 435,
-      "replies": 2,
-      "retweets": 7,
-      "quotes": 0,
-      "bookmarks": 0,
-      "matched_terms": [
-        "@HotEminSummer",
-        "$hotemin"
-      ],
-      "tweet_ids": [
-        "2059561592564379888",
-        "2055811287007789450",
-        "2055803141392633898",
-        "2055077802144149816",
-        "2055072776839364900",
-        "2055021692150288465",
-        "2054871047451676714",
-        "2054870822062325918"
-      ],
-      "first_tweet_at": "2026-05-14T10:25:56.000000Z",
-      "last_tweet_at": "2026-05-27T09:05:23.000000Z"
     },
     {
       "author": {
@@ -9761,13 +9762,13 @@
         "id": "3406320221",
         "handle": "Garfoldd",
         "name": "Goyfold",
-        "followers_count": 4196,
+        "followers_count": 4195,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2084653992156565504/CNOqc4su_normal.jpg",
         "verified": false
       },
       "tweet_count": 3,
       "likes": 103,
-      "views": 5108,
+      "views": 5110,
       "replies": 14,
       "retweets": 0,
       "quotes": 1,
@@ -12555,7 +12556,7 @@
         "id": "1518692744260108288",
         "handle": "exola_g",
         "name": "TO₿EXOLA 🕸",
-        "followers_count": 2816,
+        "followers_count": 2813,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2006411702288502784/-Z4pWryH_normal.jpg",
         "verified": false
       },
@@ -28682,13 +28683,13 @@
         "id": "1271538960859189248",
         "handle": "Nateduwg",
         "name": "TresrDuwg🔺",
-        "followers_count": 1612,
+        "followers_count": 1611,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2025589529470816256/bYO6gA4f_normal.jpg",
         "verified": true
       },
       "tweet_count": 1,
       "likes": 0,
-      "views": 118,
+      "views": 125,
       "replies": 0,
       "retweets": 0,
       "quotes": 1,
@@ -28956,6 +28957,31 @@
     },
     {
       "author": {
+        "id": "1741805678874816512",
+        "handle": "heissarode",
+        "name": "onyx",
+        "followers_count": 309,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056012739936436224/9LN4GNyt_normal.jpg",
+        "verified": false
+      },
+      "tweet_count": 1,
+      "likes": 0,
+      "views": 8,
+      "replies": 0,
+      "retweets": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "matched_terms": [
+        "$hotemin"
+      ],
+      "tweet_ids": [
+        "2084909325680562250"
+      ],
+      "first_tweet_at": "2026-08-05T07:48:13.000000Z",
+      "last_tweet_at": "2026-08-05T07:48:13.000000Z"
+    },
+    {
+      "author": {
         "id": "1232637164212473856",
         "handle": "cryptobossing",
         "name": "CryptoBossing👑π²🌶️",
@@ -29003,31 +29029,6 @@
       ],
       "first_tweet_at": "2026-06-28T10:15:15.000000Z",
       "last_tweet_at": "2026-06-28T10:15:15.000000Z"
-    },
-    {
-      "author": {
-        "id": "1741805678874816512",
-        "handle": "heissarode",
-        "name": "onyx",
-        "followers_count": 308,
-        "profile_image_url": "https://pbs.twimg.com/profile_images/2056012739936436224/9LN4GNyt_normal.jpg",
-        "verified": false
-      },
-      "tweet_count": 1,
-      "likes": 0,
-      "views": 7,
-      "replies": 0,
-      "retweets": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "matched_terms": [
-        "$hotemin"
-      ],
-      "tweet_ids": [
-        "2084909325680562250"
-      ],
-      "first_tweet_at": "2026-08-05T07:48:13.000000Z",
-      "last_tweet_at": "2026-08-05T07:48:13.000000Z"
     },
     {
       "author": {
@@ -29183,6 +29184,42 @@
   ],
   "tweets": [
     {
+      "id": "2085421507581219212",
+      "url": "https://x.com/Cryptowalltown/status/2085421507581219212",
+      "created_at": "2026-08-06T17:43:27.000000Z",
+      "text": "Everyone thinks #Hotemin is dead…\n\nBut he’s just tanning, enjoying the summer, and preparing for what’s next. ☀️🔥\n\nWhen the time is right, you’ll see him coming.\n\n#HotSummer #HOTEMIN @HotEminSummer @ExcelBaller @nobsfud https://t.co/H2h1ArhxFb",
+      "lang": "en",
+      "author": {
+        "id": "1435221339376324615",
+        "handle": "Cryptowalltown",
+        "name": "@Cryptowalltown 🔺🔻🔺⏺️⏺️⏺️",
+        "followers_count": 1510,
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055077483792179200/IYHOa2i-_normal.jpg",
+        "verified": true
+      },
+      "metrics": {
+        "likes": 0,
+        "views": 22,
+        "replies": 0,
+        "retweets": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "reply_to": {
+        "status_id": null,
+        "user_id": null,
+        "screen_name": null
+      },
+      "is_quote": false,
+      "quoted_status_id": null,
+      "matched_terms": [
+        "@HotEminSummer"
+      ],
+      "source_queries": [
+        "Latest:mention:@HotEminSummer"
+      ]
+    },
+    {
       "id": "2084909325680562250",
       "url": "https://x.com/heissarode/status/2084909325680562250",
       "created_at": "2026-08-05T07:48:13.000000Z",
@@ -29192,13 +29229,13 @@
         "id": "1741805678874816512",
         "handle": "heissarode",
         "name": "onyx",
-        "followers_count": 308,
+        "followers_count": 309,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2056012739936436224/9LN4GNyt_normal.jpg",
         "verified": false
       },
       "metrics": {
         "likes": 0,
-        "views": 7,
+        "views": 8,
         "replies": 0,
         "retweets": 0,
         "quotes": 0,
@@ -29233,8 +29270,8 @@
         "verified": true
       },
       "metrics": {
-        "likes": 24,
-        "views": 211,
+        "likes": 26,
+        "views": 222,
         "replies": 21,
         "retweets": 1,
         "quotes": 0,
@@ -29270,7 +29307,7 @@
       },
       "metrics": {
         "likes": 31,
-        "views": 323,
+        "views": 325,
         "replies": 29,
         "retweets": 1,
         "quotes": 1,
@@ -29300,13 +29337,13 @@
         "id": "1793031055659712512",
         "handle": "BusinessonAvax",
         "name": "Francis (Makooor Arc)",
-        "followers_count": 575,
+        "followers_count": 574,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2057825080902623233/o27Cd8xI_normal.jpg",
         "verified": false
       },
       "metrics": {
         "likes": 9,
-        "views": 231,
+        "views": 234,
         "replies": 1,
         "retweets": 0,
         "quotes": 0,
@@ -29372,13 +29409,13 @@
         "id": "1271538960859189248",
         "handle": "Nateduwg",
         "name": "TresrDuwg🔺",
-        "followers_count": 1612,
+        "followers_count": 1611,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2025589529470816256/bYO6gA4f_normal.jpg",
         "verified": true
       },
       "metrics": {
         "likes": 0,
-        "views": 118,
+        "views": 125,
         "replies": 0,
         "retweets": 0,
         "quotes": 1,
@@ -29408,7 +29445,7 @@
         "id": "1515387598667227144",
         "handle": "I_am_mychaell",
         "name": "MichaelOgaboss1.sol🔺️",
-        "followers_count": 951,
+        "followers_count": 950,
         "profile_image_url": "https://pbs.twimg.com/profile_images/1962132735062900737/4Q1AjM9W_normal.jpg",
         "verified": false
       },
@@ -29444,7 +29481,7 @@
         "id": "1515387598667227144",
         "handle": "I_am_mychaell",
         "name": "MichaelOgaboss1.sol🔺️",
-        "followers_count": 951,
+        "followers_count": 950,
         "profile_image_url": "https://pbs.twimg.com/profile_images/1962132735062900737/4Q1AjM9W_normal.jpg",
         "verified": false
       },
@@ -29516,13 +29553,13 @@
         "id": "3406320221",
         "handle": "Garfoldd",
         "name": "Goyfold",
-        "followers_count": 4196,
+        "followers_count": 4195,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2084653992156565504/CNOqc4su_normal.jpg",
         "verified": false
       },
       "metrics": {
         "likes": 37,
-        "views": 4141,
+        "views": 4143,
         "replies": 9,
         "retweets": 0,
         "quotes": 1,
@@ -29732,13 +29769,13 @@
         "id": "1793031055659712512",
         "handle": "BusinessonAvax",
         "name": "Francis (Makooor Arc)",
-        "followers_count": 575,
+        "followers_count": 574,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2057825080902623233/o27Cd8xI_normal.jpg",
         "verified": false
       },
       "metrics": {
         "likes": 2,
-        "views": 67,
+        "views": 68,
         "replies": 0,
         "retweets": 0,
         "quotes": 0,
@@ -29804,7 +29841,7 @@
         "id": "1518692744260108288",
         "handle": "exola_g",
         "name": "TO₿EXOLA 🕸",
-        "followers_count": 2816,
+        "followers_count": 2813,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2006411702288502784/-Z4pWryH_normal.jpg",
         "verified": false
       },
@@ -29840,7 +29877,7 @@
         "id": "1656065293",
         "handle": "ntr_xHK",
         "name": "HK 🔺(hot emin summer)",
-        "followers_count": 1640,
+        "followers_count": 1639,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2081798844933693440/6fmPSMtH_normal.jpg",
         "verified": true
       },
@@ -29947,8 +29984,8 @@
       "author": {
         "id": "1511454837191417856",
         "handle": "LePotiChatt",
-        "name": "Le Poti Chat",
-        "followers_count": 258,
+        "name": "Le Poti Chat (Contest Arc)",
+        "followers_count": 260,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2083849509843390464/J53SkMBi_normal.jpg",
         "verified": false
       },
@@ -30092,7 +30129,7 @@
         "id": "1793031055659712512",
         "handle": "BusinessonAvax",
         "name": "Francis (Makooor Arc)",
-        "followers_count": 575,
+        "followers_count": 574,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2057825080902623233/o27Cd8xI_normal.jpg",
         "verified": false
       },
@@ -30199,8 +30236,8 @@
       "author": {
         "id": "1511454837191417856",
         "handle": "LePotiChatt",
-        "name": "Le Poti Chat",
-        "followers_count": 258,
+        "name": "Le Poti Chat (Contest Arc)",
+        "followers_count": 260,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2083849509843390464/J53SkMBi_normal.jpg",
         "verified": false
       },
@@ -30528,7 +30565,7 @@
         "id": "1889769862513504256",
         "handle": "Barbotaipa",
         "name": "B🔺rbo ( makoooring )",
-        "followers_count": 295,
+        "followers_count": 300,
         "profile_image_url": "https://pbs.twimg.com/profile_images/2080444987116830720/Ua01ZGjB_normal.jpg",
         "verified": false
       },
